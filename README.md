@@ -1,4 +1,4 @@
 # BikeSharing_Exercise
-A quick fun and simple exercise with the bike sharing dataset consisting of an explorative data analysis and building a prediction model for the hourly utilization of the bike sharing data-set.
+A quick fun and simple exercise with the bike sharing dataset consisting of an explorative data analysis and building a prediction model for the hourly utilization of the bike sharing data-set https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset.
 
 This repo contains a jupyter notebook that has all the code and visualizations done mainly in Pandas and Seaborn.
